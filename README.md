@@ -19,7 +19,7 @@ Follow these steps to set up and run the bot:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/discord-image-generator-bot.git
+git clone https://github.com/ryouimet/discord-image-generator-bot.git
 cd discord-image-generator-bot
 ```
 
@@ -53,7 +53,7 @@ API_KEY=your_stable_diffusion_api_key
 Run the bot using Python:
 
 ```bash
-python bot.py
+python image-generator-bot.py
 ```
 
 The bot will now start, and you should see a message in your terminal when it is logged in and ready to use.
